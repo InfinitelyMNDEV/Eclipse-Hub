@@ -94,7 +94,7 @@ Before using Eclipse Hub, make sure you have:
 3. Paste the following script into your executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR-USERNAME/EclipseHub/main/source.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/InfinitelyMNDEV/Eclipse-Hub/refs/heads/main/Loader.lua"))()
 ```
 
 4. Execute the script.
