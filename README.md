@@ -33,9 +33,8 @@ Features and game support may change as games receive updates.»
 <br>◇ Supported Games
 
 Game| Support
-Game 1| 🟢
-Game 2| 🟢
-Game 3| 🟡
+Examination| 🟢
+Asylum Life| 🟡
 
 «🟢 Supported    🟡 Work in progress    🔴 Unsupported»
 
