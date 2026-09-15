@@ -6,7 +6,7 @@
 
 [![WindUI](https://img.shields.io/badge/UI%20Library-WindUI-8A2BE2?style=for-the-badge)](https://github.com/Footagesus/WindUI)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)]()
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)]()
 [![Platform](https://img.shields.io/badge/Platform-Roblox-000000?style=for-the-badge&logo=roblox)]()
 
 **Eclipse Hub** is a clean, modular, and constantly updated Roblox interface designed to give you a smooth, no-bloat experience across supported games. Built entirely on the [WindUI](https://github.com/Footagesus/WindUI) framework for a modern look, buttery animations, and rock-solid performance.
@@ -231,7 +231,9 @@ Eclipse Hub is provided **as-is**, for educational and personal-use purposes. Us
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+**All Rights Reserved.**
+
+This project and all of its associated files, source code, and assets are proprietary. No part of Eclipse Hub may be copied, modified, redistributed, or used in derivative works without explicit written permission from the owner(s).
 
 ---
 
@@ -240,4 +242,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 Made with ⚡ using [WindUI](https://github.com/Footagesus/WindUI)
 
 </div>
-
